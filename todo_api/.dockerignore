@@ -1,0 +1,8 @@
+.gitignore
+tox.ini
+
+.idea/
+.tox/
+build/
+venv/
+*.egg-info/
